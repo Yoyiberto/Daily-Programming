@@ -1,0 +1,47 @@
+{
+    "editor.fontSize": 16,
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "aws.telemetry": false,
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "yaml.schemas": {
+        "file:///c%3A/Users/ramse/.vscode/extensions/atlassian.atlascode-3.8.20/resources/schemas/pipelines-schema.json": "bitbucket-pipelines.yml"
+    },
+    "atlascode.bitbucket.enabled": false,
+    "workbench.colorTheme": "Default High Contrast",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "chat.tools.terminal.autoApprove": {
+        
+        "ren": true,
+        "for": true,
+        "foreach($i": true,
+        "Rename-Item": true,
+        "dir": true,
+        "Get-ChildItem | Where-Object {$_.Name -like \"CandyCandy_DVD_Ep*\"} | Select-Object Name": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "_1[01][0-5]_\"}": true,
+        "ForEach-Object": true,
+        "$newName\"": true,
+        "D:\\Proyectos\\Videos\\DailyMotion\\.venv\\Scripts\\python.exe": true,
+        "where gemini": {
+            "approve": true,
+            "matchCommandLine": true
+        },
+        "where.exe": true,
+        "npm config": true,
+        "npm bin": true,
+        "nul": true
+    },
+    "[dockercompose]": {
+        "editor.insertSpaces": true,
+        "editor.tabSize": 2,
+        "editor.autoIndent": "advanced",
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
+    "[github-actions-workflow]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    }
+}
