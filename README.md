@@ -1,1 +1,1 @@
-This is the parent readme for daily programming projects
+Programming that i do as a part of my daily life. Small automation scripts or similar things.
